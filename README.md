@@ -1,4 +1,4 @@
-### Olá, eu sou Marcos Luciano (markoluciano) 👋
+### Olá, eu sou Marcos Luciano (markoluciano)
 
 ✨ **Aluno** na [DIO](https://dio.me) Especialista em Suporte de TI.
 
