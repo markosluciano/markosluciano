@@ -1,6 +1,7 @@
-# Olá, eu sou Marcos Luciano (markoluciano)
+## Olá, eu sou Marcos Luciano (markoluciano)
 
-✨ **Aluno** na [DIO](https://dio.me) Especialista em Suporte de TI.
+✨ **Aluno** na [DIO](https://dio.me) Especialista em Suporte de TI. 
+# Iniciante em programação 
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prmarcosluciano/)
