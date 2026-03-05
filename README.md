@@ -51,7 +51,7 @@ Atualmente executando um plano de 14 semanas, 2h/dia, para consolidar a transiç
 | Fase 3 — Sem 9–12 | Kubernetes, Monitoramento, AWS CLF | ⏳ Próxima |
 | Fase 4 — Sem 13–14 | Projeto integrador + Portfólio | ⏳ Próxima |
 
-🗂️ **[Ver plano de estudos completo com checklist interativo](https://prmarcosluciano.github.io/plano-cloud-devops/plano_cloud_devops.html)**
+🗂️ **[Ver plano de estudos completo com checklist interativo](https://github.com/markosluciano/plano-cloud-devops)**
 
 ---
 
