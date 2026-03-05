@@ -1,4 +1,4 @@
-# 👋 Olá, sou Marcos Luciano Rodrigues
+# 👋 Olá, sou o Marcos L. Rodrigues
 
 Profissional de TI com **mais de 10 anos de experiência em infraestrutura**, em transição de carreira para **Cloud & DevOps / SRE**.
 
