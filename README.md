@@ -1,4 +1,4 @@
-# 👋 Olá, sou o Marcos L. Rodrigues
+# 👋 Olá, sou o Marcos,
 
 Profissional de TI com **mais de 10 anos de experiência em infraestrutura**, em transição de carreira para **Cloud & DevOps / SRE**.
 
@@ -42,17 +42,12 @@ Administro ambientes com XCP-ng, Pfsense, TrueNAS, Samba e Linux Debian no dia a
 
 ## 📚 Plano de estudos
 
-Atualmente executando um plano de 14 semanas, 2h/dia, para consolidar a transição:
-
-| Fase | Foco | Status |
-|------|------|--------|
-| Fase 1 — Sem 1–4 | Linux, Git, Python, Docker | 🔄 Em andamento |
-| Fase 2 — Sem 5–8 | AWS, Terraform, CI/CD | ⏳ Próxima |
-| Fase 3 — Sem 9–12 | Kubernetes, Monitoramento, AWS CLF | ⏳ Próxima |
-| Fase 4 — Sem 13–14 | Projeto integrador + Portfólio | ⏳ Próxima |
+Atualmente executando um plano de estudos para consolidar minha transição:
 
 🗂️ **[Ver plano de estudos completo com checklist interativo](https://github.com/markosluciano/plano-cloud-devops)**
 
 ---
 
 ## 🏅 Certificações
+
+🚧 Em contrução...
