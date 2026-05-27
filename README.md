@@ -1,24 +1,27 @@
-# 👋 Olá, sou o Marcos,
+# 👋 Olá, sou o Marcos Rodrigues
 
-Profissional de TI com **mais de 10 anos de experiência em infraestrutura**, em transição de carreira para **Cloud & DevOps / SRE**.
+Profissional de Infraestrutura e Sistemas com mais de 10 anos de experiência em ambientes corporativos críticos, atuando com Linux, virtualização, redes, firewall, armazenamento e sustentação operacional.
 
-Administro ambientes com XCP-ng, Pfsense, TrueNAS, Samba e Linux Debian no dia a dia — e estou formalizando esse conhecimento na stack moderna de cloud e automação.
+Atualmente direcionando minha evolução profissional para Cloud Computing, DevOps e Automação de Infraestrutura, transformando experiência prática de infraestrutura tradicional em uma stack moderna baseada em cloud, containers, observabilidade e Infraestrutura como Código. :contentReference[oaicite:0]{index=0}
 
 ---
 
 ## 🚀 Sobre Mim
 
-- 🏗️ **+10 anos** em infraestrutura, redes e suporte técnico N1/N2
-- ☁️ Em transição para **Cloud & DevOps** — foco em AWS, Terraform e Kubernetes
-- 🎓 Cursando **Gestão da Tecnologia da Informação** (FASUL, conclusão 2026)
-- 📍 Rio Verde / GO — aberto a trabalho **remoto**
-- 🎯 Meta: vaga júnior em **Cloud Engineer / DevOps Engineer** em 2026
+- 🏗️ Experiência sólida em infraestrutura corporativa, virtualização, redes e administração de ambientes Linux
+- ☁️ Em transição estratégica para Cloud & DevOps com foco em AWS, Docker, Terraform, Kubernetes e automação
+- 🐧 Administração de ambientes Linux Debian, XCP-ng, pfSense, TrueNAS, Samba e Active Directory
+- 🔧 Construindo projetos práticos voltados para automação, CI/CD, observabilidade e ambientes cloud-native
+- 📚 Estudando AWS, Terraform, Ansible, Kubernetes, GitHub Actions e práticas de SRE
+- 🎓 Cursando Gestão da Tecnologia da Informação (FASUL • conclusão em 2026)
+- 📍 Rio Verde/GO • disponível para oportunidades remotas ou híbridas
+- 🎯 Objetivo profissional: atuar como Cloud Engineer, DevOps Engineer, Infrastructure Engineer ou SRE Jr.
 
 ---
 
 ## 🛠️ Stack atual
 
-**Infraestrutura (experiência profissional)**
+### **Infraestrutura (experiência profissional)**
 
 ![Linux](https://img.shields.io/badge/Linux_Debian-FCC624?style=flat&logo=linux&logoColor=black)
 ![XCP-ng](https://img.shields.io/badge/XCP--ng-Virtualização-blue?style=flat)
@@ -27,7 +30,7 @@ Administro ambientes com XCP-ng, Pfsense, TrueNAS, Samba e Linux Debian no dia a
 ![Samba](https://img.shields.io/badge/Samba-File_Server-orange?style=flat)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat&logo=microsoft&logoColor=white)
 
-**Cloud & DevOps (em aprendizado)**
+### **Cloud & DevOps (em evolução)**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
@@ -40,6 +43,19 @@ Administro ambientes com XCP-ng, Pfsense, TrueNAS, Samba e Linux Debian no dia a
 
 ---
 
+## 📚 Atualmente Estudando
+
+- AWS Cloud & Arquitetura
+- Docker & Containers
+- Terraform & Ansible
+- Kubernetes
+- CI/CD com GitHub Actions
+- Observabilidade com Prometheus & Grafana
+- Automação de Infraestrutura
+- Práticas de DevOps & SRE
+
+---
+
 ## 📚 Plano de estudos
 
 Atualmente executando um plano de estudos para consolidar minha transição:
@@ -47,6 +63,12 @@ Atualmente executando um plano de estudos para consolidar minha transição:
 🗂️ **[Ver plano de estudos completo com checklist interativo](https://github.com/markosluciano/plano-cloud-devops)**
 
 ---
+
+## 📌 Objetivo deste GitHub
+
+Documentar minha transição prática de Infraestrutura Tradicional para Cloud & DevOps através de laboratórios, projetos reais, automação de ambientes e estudos aplicados.
+
+A ideia é construir uma base sólida em cloud, automação e engenharia de infraestrutura moderna utilizando experiência operacional real como diferencial.
 
 ## 🏅 Certificações
 
