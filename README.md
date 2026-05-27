@@ -2,7 +2,7 @@
 
 Profissional de Infraestrutura e Sistemas com mais de 10 anos de experiência em ambientes corporativos críticos, atuando com Linux, virtualização, redes, firewall, armazenamento e sustentação operacional.
 
-Atualmente direcionando minha evolução profissional para Cloud Computing, DevOps e Automação de Infraestrutura, transformando experiência prática de infraestrutura tradicional em uma stack moderna baseada em cloud, containers, observabilidade e Infraestrutura como Código. :contentReference[oaicite:0]{index=0}
+Atualmente direcionando minha evolução profissional para Cloud Computing, DevOps e Automação de Infraestrutura, transformando experiência prática de infraestrutura tradicional em uma stack moderna baseada em cloud, containers, observabilidade e Infraestrutura como Código.
 
 ---
 
